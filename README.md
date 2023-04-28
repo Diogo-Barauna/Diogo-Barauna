@@ -1,4 +1,5 @@
 <h2> Olá, meu nome é Diogo Nicéas Baraúna, tenho 19 anos e moro em Caruaru - PE, seja muito bem vindo(a) a meu perfil! </h2>
+<h3> Fullstack developer! </h3>
 
 ### Estudando no momento:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
