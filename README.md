@@ -15,6 +15,6 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-Barauna&theme=dark&custom_title=Linguagens&layout=compact&hide=css,html&size_weight=0.5&count_weight=0.5)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
