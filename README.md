@@ -3,7 +3,7 @@
 
 ### Estudando no momento:
 Cursos da udemy:
- <b> -Curso de JavaScript e TypeScript do básico ao avançado </b>
+ <b> -Curso de JavaScript e TypeScript do básico ao avançado </b> <br>
  <b> -React - The Complete Guide (incl Hooks, React Router, Redux) </b>
 
 
