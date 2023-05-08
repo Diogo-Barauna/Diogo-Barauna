@@ -1,10 +1,11 @@
 <h2> Olá, meu nome é Diogo Nicéas Baraúna, tenho 19 anos e moro em Caruaru - PE, seja muito bem vindo(a) a meu perfil! </h2>
-<h3> :desktop_computer: Full-stack developer! (Atualmente estudando back-end) </h3>
+<h3> :desktop_computer: Full-stack developer! </h3>
 
 ### Estudando no momento:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Assuntos estudados:
