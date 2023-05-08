@@ -2,7 +2,7 @@
 <h3> :desktop_computer: Full-stack developer! </h3>
 
 ### Estudando no momento:
-Cursos da udemy:
+<h3>Cursos da udemy:</h3> <br>
  <b> -Curso de JavaScript e TypeScript do básico ao avançado </b> <br>
  <b> -React - The Complete Guide (incl Hooks, React Router, Redux) </b>
 
