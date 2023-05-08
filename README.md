@@ -2,9 +2,9 @@
 <h3> :desktop_computer: Full-stack developer! </h3>
 
 ### Estudando no momento:
-<h3>Cursos da udemy:</h3> <br>
- <b> -Curso de JavaScript e TypeScript do básico ao avançado </b> <br>
- <b> -React - The Complete Guide (incl Hooks, React Router, Redux) </b>
+
+ <b> -Curso de JavaScript e TypeScript do básico ao avançado (Udemy)</b> <br>
+ <b> -React - The Complete Guide (incl Hooks, React Router, Redux) (Udemy) </b>
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
