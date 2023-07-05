@@ -3,8 +3,6 @@
 
 ### Estudando no momento:
 
- <b> -Curso de JavaScript e TypeScript do básico ao avançado (Udemy)</b> <br>
- <b> -React - The Complete Guide (incl Hooks, React Router, Redux) (Udemy) </b>
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
