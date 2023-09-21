@@ -1,5 +1,5 @@
 <h2> Olá, meu nome é Diogo Nicéas Baraúna, tenho 20 anos e moro em Caruaru - PE, seja muito bem vindo(a) a meu perfil! </h2>
-<h3> :desktop_computer: Full-stack developer! </h3>
+
 
 ### Estudando no momento:
 
