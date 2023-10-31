@@ -1,4 +1,4 @@
-<h2> Olá, meu nome é Diogo Nicéas Baraúna, tenho 20 anos e moro em Caruaru - PE, seja muito bem vindo(a) a meu perfil! </h2>
+<h2> Olá, meu nome é Diogo Baraúna, tenho 20 anos e moro em Caruaru - PE, seja muito bem vindo(a) a meu perfil! </h2>
 
 
 ### Estudando no momento:
