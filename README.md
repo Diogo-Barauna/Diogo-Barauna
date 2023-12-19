@@ -12,4 +12,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-Barauna&layout=compact&theme=dark&hide=CSS,HTML)](https://github.com/anuraghazra/github-readme-stats)
 
+Dê uma olhada na minha extensão!:
+
+https://chromewebstore.google.com/detail/yet-another-water-reminde/cppiojfbadlpjgaobmkbddcfkbblfjan?hl=pt-br
 
