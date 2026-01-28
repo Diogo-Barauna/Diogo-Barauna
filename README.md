@@ -1,19 +1,8 @@
 <h2> Olá, meu nome é Diogo Baraúna, tenho 22 anos e moro em Caruaru - PE, seja muito bem vindo(a) a meu perfil! </h2>
 
+Cofundador e Desenvolvedor na empresa Hive Nimbus. Construindo sistemas de IA e soluções de software escaláveis.
 
-### Estudando no momento:
+Visite nosso site:
+https://hivenimbus.com.br
 
-
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-Barauna&layout=compact&theme=dark&hide=CSS,HTML)](https://github.com/anuraghazra/github-readme-stats)
-
-Dê uma olhada na minha extensão:
-
-https://chromewebstore.google.com/detail/yet-another-water-reminde/cppiojfbadlpjgaobmkbddcfkbblfjan?hl=pt-br
 
